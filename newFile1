@@ -1,8 +1,15 @@
 # Let see if this works 
 
 adding a file into new branch
+<<<<<<< HEAD
 to see how things turned up 
 
 let su see if this time it works or not??
 
 
+=======
+to see how things turned up
+
+changing it again to see pushing of branch 
+& pushing of code through master
+>>>>>>> newBranch1
